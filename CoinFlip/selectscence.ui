@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SelectScence</class>
+ <widget class="QMainWindow" name="SelectScence">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>320</width>
+    <height>588</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>320</width>
+    <height>588</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>320</width>
+    <height>588</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>选择关卡</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="res.qrc">
+    <normaloff>:/res/Coin0001.png</normaloff>:/res/Coin0001.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>320</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>开始</string>
+    </property>
+    <addaction name="actionclose"/>
+   </widget>
+   <addaction name="menu"/>
+  </widget>
+  <action name="actionclose">
+   <property name="text">
+    <string>关闭</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
+ <connections/>
+</ui>
