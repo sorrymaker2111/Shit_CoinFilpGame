@@ -42,10 +42,9 @@
 
 
 答辩界面展示：
-![avatar](/Shit_CoinFilpGame/image-20230717005543277" style="zoom:50%;")
 
 
-<img src="Shit_CoinFilpGame/image-20230717005543277" style="zoom:50%;" />
+<img src="Shit_CoinFilpGame/image-20230717005543277" alt= "Shit_CoinFilpGame/image-20230717005543277" style="zoom:50%;" />
 
 <img src="Shit_CoinFilpGame/image-20230717005601776" style="zoom:50%;" />
 
