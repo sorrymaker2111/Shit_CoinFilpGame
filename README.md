@@ -54,4 +54,4 @@
 
 ---
 
-[欢迎关注我的答辩仓库喵~([sorrymaker2111 (sorrymaker2111) · GitHub](https://github.com/sorrymaker2111))
+[欢迎关注我的答辩仓库喵~](https://github.com/sorrymaker2111)
