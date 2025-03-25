@@ -48,7 +48,7 @@
 
 <img src="https://github.com/sorrymaker2111/Shit_CoinFilpGame/blob/main/image-20230717005601776.png?raw=true" style="zoom:50%;" />
 
-<img src="G:\software\Typora\md图片\image-20230717005617284.png" alt="image-20230717005617284" style="zoom:50%;" />
+<img src="https://github.com/sorrymaker2111/Shit_CoinFilpGame/blob/main/image-20230717005617284.png?raw=true" style="zoom:50%;" />
 
 ## 最后
 
