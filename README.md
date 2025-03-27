@@ -4,10 +4,10 @@
 
 ## 目录
 ---
-* [运行环境](#1运行环境)
-* [运行方法](#2运行方法)
-* [运行界面](#3运行界面)
-* [最后](#4最后)
+* [1.运行环境](#1运行环境)
+* [2.运行方法](#2运行方法)
+* [3.运行界面](#3运行界面)
+* [我的仓库](#my-repositories)
 
 
 
@@ -48,8 +48,6 @@
 
 <img src="https://github.com/sorrymaker2111/Shit_CoinFilpGame/blob/main/image-20230717005617284.png?raw=true" style="zoom:50%;" />
 
-## 4.最后
 
----
-
+<a name = "my-repositories"> </a>
 [欢迎关注我的答辩仓库喵~](https://github.com/sorrymaker2111)
